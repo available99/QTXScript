@@ -1,13 +1,14 @@
 
 
 /*
-
+软件下载  https://e2q.xyz/2be4w
 [rewrite_local]
 ^https:\/\/api\.g1e\.xyz\/api\/public\/?service=Live\.checkLive url script-response-body zhuzhou.js
 [mitm]
 hostname = api.g1e.xyz
  */
 //https://sf3-ttcdn-tos.pstatp.com/obj/ad-pattern/renderer/package.json
+
 
 
 //www.hz01.app
